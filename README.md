@@ -6,7 +6,6 @@
 | ------------- |-------- | ----------- |
 | email         | string  | null: false |
 | password      | string  | null: false |
-| name          | string  | null: false |
 | nickname      | string  | null: false |
 | age_range_id  | integer | null: false |  #Active hash使う
 | occupation    | text    | null: false |
